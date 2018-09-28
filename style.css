@@ -13,7 +13,8 @@ div {
 /* ID selector to select the element with id 'main-header' */
 #main-header {font-size: 22px}
   /* Your code here! */
-  color:red;
+  
+  .perspective-questions {font-style: italic;
 }
 
 /* Class selector to select elements containing the class 'perspective-questions' */
